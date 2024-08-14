@@ -1,0 +1,30 @@
+* {
+    margin: 2px;
+    padding:0px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header{
+    text-align: left;
+    background-color:green;
+}
+
+main {
+    background-color: aqua;
+    width:70%;
+    float:right;
+
+}
+
+aside{
+    width:30%;
+    float:left;
+    background-color: antiquewhite;
+}
+
+footer{
+    width: 100%;
+    float:left;
+    background-color: green;
+    padding:20px;
+}
